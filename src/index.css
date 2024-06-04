@@ -1,0 +1,12 @@
+/* google-fonts.css */
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap'); */
+/* Add additional Google Fonts imports here if needed */
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Jacquard+12&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Noto+Sans+Shavian&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:wght@800&display=swap');
+body {
+  margin: 0;
+  /* font-family: 'Dancing Script', cursive; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
